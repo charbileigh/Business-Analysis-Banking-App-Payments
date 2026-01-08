@@ -1,7 +1,7 @@
 # Banking App Business Analysis Case Study: Beneficiaries & Payments
 
 ## Overview
-This repository is a Business Analysis case study for a fictional retail banking mobile app ("MzansiBank").
+This repository is a Business Analysis case study for a fictional retail banking mobile app ("Chabi Bank").
 The scope covers the end-to-end flow for:
 1) Adding a beneficiary
 2) Making a payment to a beneficiary
